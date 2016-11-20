@@ -1,6 +1,6 @@
 dependencies: 
   pre:
-    - sudo apt-get update; sudo apt-get install ssh-pass
+    - sudo apt-get update; sudo apt-get install sshpass
 test:
   override:
       - echo "test"
