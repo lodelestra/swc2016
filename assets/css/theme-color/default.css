@@ -4,198 +4,198 @@ Author URI : http://www.markups.io/
 ========================================*/
 
 .header-content h2 span {
-  color: #00d999;
+  color: #e74c3c;
 }
 .knowmore-btn:hover,
 .knowmore-btn:focus,
 .download-btn:hover,
 .download-btn:focus{
-  background-color: #00D999;
-  border-color: #00D999;
+  background-color: #e74c3c;
+  border-color: #e74c3c;
 }
 .main-nav li a:hover{
-  color: #00d999;
-} 
+  color: #e74c3c;
+}
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #00d999;
+  color: #e74c3c;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #00d999;
+  color: #e74c3c;
 }
 .search-area input[type="text"]:focus:hover {
-  border-bottom: 1px solid #00d999;  
+  border-bottom: 1px solid #e74c3c;  
 }
 .search-area input[type="text"]:focus {
-  border-bottom: 1px solid #00d999;  
+  border-bottom: 1px solid #e74c3c;  
 }
 .search-area input[type="submit"] {
-  background-color: #00d999;  
+  background-color: #e74c3c;  
 }
 .tittle>span{
-  color: #00d999;
+  color: #e74c3c;
 }
 .single-wc-content span {
-  border: 1px solid #00d999;
-  color: #00d999;
+  border: 1px solid #e74c3c;
+  color: #e74c3c;
 }
 .single-wc-content:hover .wc-icon{
-  background-color: #00d999;
+  background-color: #e74c3c;
 }
 .single-wc-content:hover .wc-tittle{
-  border-bottom: 2px solid #00d999;  
+  border-bottom: 2px solid #e74c3c;
 }
 .about-left {
-  background-color: #00d999;  
+  background-color: #e74c3c;
 }
-.button-default {  
-  border: 2px solid #00d999 !important;
-  color: #00d999 !important;
+.button-default {
+  border: 2px solid #e74c3c !important;
+  color: #e74c3c !important;
 }
 .button-default:hover {
-  border-color: #00d999;
+  border-color: #e74c3c;
 }
 .button-default:hover,
 .button-default:focus {
-  border-color: #00d999;
-  background-color: #00d999 !important;  
+  border-color: #e74c3c;
+  background-color: #e74c3c !important;
 }
 .introduction-btn {
   background-color: rgba(0, 217, 153, 0.8);
 }
 .team-info {
   background: rgba(0, 217, 153, 0.8);
-}  
+}
 .team-grid li:hover .team-address p {
-  color: #00d999;
+  color: #e74c3c;
 }
 .single-service {
-  border-bottom: 5px solid #00d999;
+  border-bottom: 5px solid #e74c3c;
 }
-.single-service:hover:after{  
-  background-color: #00d999;
+.single-service:hover:after{
+  background-color: #e74c3c;
 }
 .single-service:hover .service-icon{
-  color: #00d999;
+  color: #e74c3c;
 }
 .single-service:hover .service-title{
-  color: #00d999;
+  color: #e74c3c;
 }
 .single-counter > span {
-  color: #00d999;
+  color: #e74c3c;
 }
 .single-price .price-header {
-  background-color: #00d999;
+  background-color: #e74c3c;
  }
  .single-price .price-header::after {
-  color: #00d999;  
+  color: #e74c3c;
 }
 .single-price .price-amount {
-  border-bottom: 1px solid #00d999;
-  color: #00d999;  
+  border-bottom: 1px solid #e74c3c;
+  color: #e74c3c;
 }
 .single-price a {
-  border-bottom: 1px solid #00d999;
+  border-bottom: 1px solid #e74c3c;
 }
 .standard-price a{
-  background-color: #00d999;  
+  background-color: #e74c3c;
 }
 .single-from-blog .blog-title h2 a:hover,
 .single-from-blog .blog-title h2 a:focus{
-  color: #00d999; 
+  color: #e74c3c;
 }
 .single-from-blog .blog-title .blog-admin{
-  color: #00d999;
+  color: #e74c3c;
 }
 .single-from-blog .blog-footer a:hover,
-.single-from-blog .blog-footer a:focus { 
-  color: #00d999;
+.single-from-blog .blog-footer a:focus {
+  color: #e74c3c;
 }
 .contact-form .form-control:focus {
-  border-color: #00d999;   
-} 
+  border-color: #e74c3c;
+}
 .portfolio-menu ul li:hover{
-  color: #00d999;
-  border-color: #00d999;  
+  color: #e74c3c;
+  border-color: #e74c3c;
 }
 .portfolio-social-icon a {
-  background-color: #00d999;
+  background-color: #e74c3c;
 }
 .portfolio-title {
-  background-color: #00d999;
+  background-color: #e74c3c;
 }
 .blog-banner-area .breadcrumb li.active{
-  color: #00d999;
+  color: #e74c3c;
 }
 .blog-pagination > li > a:hover,
 .blog-pagination > li > span:hover,
 .blog-pagination > li > a:focus,
 .blog-pagination > li > span:focus{
-  background-color: #00d999;  
-  border-color:#00d999;  
+  background-color: #e74c3c;
+  border-color:#e74c3c;
 }
 .single-widget h2 {
-  border-left: 3px solid #00d999;  
+  border-left: 3px solid #e74c3c;
 }
 .popular-post-widget .media-heading a:hover,
 .popular-post-widget .media-heading a:focus{
-  color: #00d999;  
+  color: #e74c3c;
 }
 .instagram-feed .slick-prev::before,
 .instagram-feed .slick-next::before {
-  color: #00d999;  
+  color: #e74c3c;
 }
 .instagram-feed .slick-dots li.slick-active button{
-  background-color: #00d999;
+  background-color: #e74c3c;
 }
 .instagram-feed .slick-dots li.slick-active button::before{
-  color: #00d999
+  color: #e74c3c
 }
 .comment-form .form-control:focus {
-  border-color: #00d999;   
-} 
+  border-color: #e74c3c;
+}
 .error-no {
-  border: 2px solid #00d999;  
+  border: 2px solid #e74c3c;
 }
 .error-no p {
-  color: #00d999;
+  color: #e74c3c;
 }
 .blog-details-content>a:hover{
-  color: #00d999;
+  color: #e74c3c;
 }
-.scrollToTop {  
-  color: #00d999;  
+.scrollToTop {
+  color: #e74c3c;
 }
 .scrollToTop:hover,
-.scrollToTop:focus{  
-  background-color: #00d999; 
+.scrollToTop:focus{
+  background-color: #e74c3c;
 }
-.loader {  
-  background: #00d999;
-  background: -moz-linear-gradient(left, #00d999 10%, rgba(255, 255, 255, 0) 42%);
-  background: -webkit-linear-gradient(left, #00d999 10%, rgba(255, 255, 255, 0) 42%);
-  background: -o-linear-gradient(left, #00d999 10%, rgba(255, 255, 255, 0) 42%);
-  background: -ms-linear-gradient(left, #00d999 10%, rgba(255, 255, 255, 0) 42%);
-  background: linear-gradient(to right, #00d999 10%, rgba(255, 255, 255, 0) 42%);  
+.loader {
+  background: #e74c3c;
+  background: -moz-linear-gradient(left, #e74c3c 10%, rgba(255, 255, 255, 0) 42%);
+  background: -webkit-linear-gradient(left, #e74c3c 10%, rgba(255, 255, 255, 0) 42%);
+  background: -o-linear-gradient(left, #e74c3c 10%, rgba(255, 255, 255, 0) 42%);
+  background: -ms-linear-gradient(left, #e74c3c 10%, rgba(255, 255, 255, 0) 42%);
+  background: linear-gradient(to right, #e74c3c 10%, rgba(255, 255, 255, 0) 42%);
 }
 .loader:before {
-  background: #00d999; 
+  background: #e74c3c;
 }
 .footer-bottom p a{
-  color: #00d999;
+  color: #e74c3c;
 }
 .blog-pagination > li > a,
 .blog-pagination > li > span {
-  color: #00d999; 
+  color: #e74c3c;
 }
 .blog-pagination > li > a:hover,
 .blog-pagination > li > span:hover,
 .blog-pagination > li > a:focus,
 .blog-pagination > li > span:focus{
-  background-color: #00d999;  
-  border-color:#00d999;
+  background-color: #e74c3c;
+  border-color:#e74c3c;
 }
 
 /*=======================================

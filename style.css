@@ -1424,16 +1424,18 @@ display: flex;
 }
 .open-home__arguments h2 {
     margin-bottom: .4em;
+    color: #e74c3c;
 }
 .open-home__main p {
     margin: 0;
     font-size: 19px;
     line-height: 1.5em;
-    color: #8c8a8c;
+    color: #777777;
 }
 .open-home__arguments p {
     line-height: 1.75em;
     margin: 0;
+    color: #777777;
 }
 .open-home__argument:nth-child(even) {
     direction: rtl;
@@ -1487,6 +1489,12 @@ display: flex;
 }
 .footer-bar-wrapper a {
   white-space: nowrap;
+
+}
+.btn-call:focus,
+.btn-call:hover {
+  background-color: rgba(#f5f5f5, 0.5);
+  border-color: #f5f5f5;
 }
 .footer-top {
 	display: flex;
