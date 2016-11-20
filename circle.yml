@@ -8,4 +8,4 @@ deployment:
   hub:
     branch: master
     commands:
-       - sshpass -p $FTP_PASS scp -r ./ topmifrqjl@ftp.cluster017.ovh.net:/www/
+       - sshpass -p $FTP_PASS scp -o "StrictHostKeyChecking no" -r ./ topmifrqjl@ftp.cluster017.ovh.net:/www/
