@@ -264,7 +264,7 @@ img{
 }
 .header-encart-title {
   color: #e74c3c;
-  font-size: 40px;
+  font-size: 31px;
 	margin-bottom: 0;
   position: absolute;
   bottom: 0;
@@ -279,7 +279,7 @@ img{
 
 #about{
 	background-color: #f8f8f8;
-	padding: 50px 0 90px;
+	padding: 35px 0 90px;
 	float: left;
 	display: inline;
 	width: 100%;
@@ -290,13 +290,7 @@ img{
   margin: 0 auto;
   text-align: center;
   width: 100%;
-}
-
-/*--------------------*/
-/* VALUE */
-/*--------------------*/
-.value {
-  background-color: #f4f4f4;
+  line-height: 30px;
 }
 
 
@@ -464,6 +458,10 @@ img{
 .team-grid li:hover .team-info p {
 	opacity: 1;
 }
+.title-gain {
+  color: #e74c3c;
+  text-align: center;
+}
 .team-address {
 	display: inline;
 	float: left;
@@ -473,6 +471,7 @@ img{
 }
 .team-address p {
 	color: #525252;
+  margin-top: 30px;
 	margin-bottom: 0px;
 	font-size: 22px;
 	font-weight: 600;
@@ -484,7 +483,6 @@ img{
 	-o-transition: all 0.5s;
 	transition: all 0.5s;
 }
-
 .team-address span {
 	color: #777777;
 	font-size: 17px;
@@ -1385,11 +1383,11 @@ display: flex;
   background-position: center;
 }
 .open-home-argument__illu--second {
-    background-image: url(http://www.marketplaceleaders.org/wp-content/uploads/2013/09/893708_10151839045509966_1967887512_o.jpg);
+    background-image: url(http://www.bradsageitsolutions.com.au/wp-content/uploads/2015/03/fibra-ottica.jpg);
     background-position: left;
 }
 .open-home-argument__illu--third {
-    background-image: url(http://www.marketplaceleaders.org/wp-content/uploads/2013/09/893708_10151839045509966_1967887512_o.jpg);
+    background-image: url(http://bhagyashilamindpower.org/images/money%20control%20management%20copy.jpg);
     background-position: center;
 }
 .open-home-argument__illu {
@@ -1493,7 +1491,7 @@ display: flex;
 }
 .btn-call:focus,
 .btn-call:hover {
-  background-color: rgba(#f5f5f5, 0.5);
+  background-color: rgba(245,245,245, 0.3);
   border-color: #f5f5f5;
 }
 .footer-top {
