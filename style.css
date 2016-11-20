@@ -261,11 +261,12 @@ img{
   height: 83px;
   position: absolute;
   width: 100%;
+  left: 0px;
 }
 .header-encart-title {
   color: #e74c3c;
   font-size: 31px;
-	margin-bottom: 0;
+  margin-bottom: 0;
   position: absolute;
   bottom: 0;
   padding: 0;
