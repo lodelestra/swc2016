@@ -1,0 +1,11 @@
+dependencies: 
+  pre:
+    - sudo apt-get update; sudo apt-get install ssh-pass
+test:
+  override:
+      - echo "test"
+deployment:
+  hub:
+    branch: master
+    commands:
+       - sshpass -p $FTP_PASS scp -r ./ topmifrqjl@ftp.cluster017.ovh.net:/www/
